@@ -1,8 +1,6 @@
 ---
-title: Getting Started
-description: What does your user need to know to try your project?
-categories: [Examples, Placeholders]
-tags: [test, docs]
+title: About Drupal
+description: Information about Drupal and etc.
 weight: 2
 ---
 
